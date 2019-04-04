@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Forth project</string>
+    <string name="textview1">Team A</string>
+    <string name="textview2">0</string>
+    <string name="lable_add1">+3 POINTS</string>
+    <string name="lable_add2">+2 POINTS</string>
+    <string name="lable_add3">+1 POINT</string>
+    <string name="lable_add4">RESET</string>
+</resources>
